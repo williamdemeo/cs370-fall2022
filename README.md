@@ -253,7 +253,7 @@ If you don't understand something, please ask!
 
 1. **In Lecture.** The best time/place to ask a question is during lecture or recitation or office hours.
 
-2. **On Canvas.** Another good place to ask a question is the online discussion forum.  The Canvas system is designed to provide help quickly and efficiently.  Rather than emailing questions to the teaching staff, students are encouraged to post questions on Canvas.
+2. **On [Canvas][].** Another good place to ask a question is the online discussion forum.  The [Canvas][] system is designed to provide help quickly and efficiently.  Rather than emailing questions to the teaching staff, students are encouraged to post questions on [Canvas][].
 
 ---------------------------------
 
@@ -291,7 +291,7 @@ accommodations, but **will not provide them retroactively**
 Students must have their paper work in order and should contact the instructor 
 early in the semester in order to have their learning needs appropriately met. 
 
-
+[Canvas]: https://njit.instructure.com/courses/25677
 [Lean]: https://leanprover.github.io/
 [KUPF]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
 [KUPF 202]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5

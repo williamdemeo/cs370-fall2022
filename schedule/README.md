@@ -14,42 +14,36 @@ The Berkeley course presented the material in different order than ours.
 
 | **Week** | **Date** | **Topic**                         | **Reading**      | **Homework**                             | **Project Due Dates** | **UCB Videos**                  | **UCB Notes**      | **Alternative Notes** |
 |----------|----------|-----------------------------------|------------------|------------------------------------------|-----------------------|---------------------------------|--------------------|-----------------------|
-| **1**    | 9 Sep    | [Intro to AI (UCB version)][]      | Ch 1             | [HW 0][] Survey, due Wed 26 Jan 23:59    |                       | [Intro to AI (YouTube)][]       |                    | |
-|          |          | [Agents and Environments][]       | Ch 2             | [HW 1][] Agents, due Wed 2 Feb 23:59     |                       |                                 |                    | |
+| **1**    | 9 Sep    | [Intro to AI (UCB version)][]     | Ch 1             |                                          |                       | [Intro to AI (YouTube)][]       |                    | |
+|          |          | [Agents and Environments][]       | Ch 2             | [HW 1][] Agents, due Fri 16 Sep 23:59    |                       |                                 |                    | |
 | **2**    | 16 Sep   | [Uninformed Search][]             | 3.1--3.4         |                                          |                       | [Uninformed Search (YouTube)][] | [Note 1: Search][] | [Note 1 (Fa '18)][]|
-|          |          | [Informed Search][]               | 3.5, 3.6         | [HW 2][] Search, due Wed 9 Feb 23:59     |                       | [Informed Search (YouTube)][]   |                    | |
+|          |          | [Informed Search][]               | 3.5, 3.6         | [HW 2][] Search, due Fri 23 Sep 23:59    |                       | [Informed Search (YouTube)][]   |                    | |
 | **3**    | 23 Sep   | [A* Search and Heuristics][]      | 4.1, 4.2         |                                          |                       |                                 | [Note 2: Local Search][] | |
-|          |          | [CSP I][]                         | 6.1, 6.2         | [HW 3][] CSP, due Wed 16 Feb 23:59       | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
+|          |          | [CSP I][]                         | 6.1, 6.2         | [HW 3][] CSP, due Fri 30 Sep 23:59       | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
 | **4**    | 30 Sep   | [CSP II][]                        | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
-|          |          | [Adversarial Search I][]          | 5.2--5.5         | [HW 4][] Games, due Wed 23 Feb 23:59     |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
+|          |          | [Adversarial Search I][]          | 5.2--5.5         | [HW 4][] Games, due Fri 7 Oct 23:59      |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
 | **5**    | 7  Oct   | [Adversarial Search II][]         | 16.1--16.3       |                                          |                       | [Game Trees II (YouTube)][]     | [Note 4: Nondeterministic Search][] | |
-|          |          | [Markov Decision Processes I][]   | 17.1--17.3       | [HW 5][] MDP, due Wed 2 Mar 23:59        | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
+|          |          | [Markov Decision Processes I][]   | 17.1--17.3       | [HW 5][] MDP, due Fri 14 Oct 23:59       | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
 | **6**    | 14 Oct   | [Markov Decision Processes II][]  |                  |                                          |                       | [MDP II (YouTube)][]            |                    | |
-|          |          | [Reinforcement Learning I][]      | Ch 22            | [HW 6][] RL, due Wed 9 Mar 23:59         |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
+|          |          | [Reinforcement Learning I][]      | Ch 22            | [HW 6][] RL, due Fri 21 Oct 23:59        |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
 | **7**    | 21 Oct   | [Reinforcement Learning II][]     | Ch 22            |                                          |                       | [RL II (YouTube)][]             |                    | |
-|          |          | [Probability][]                   | 12.1--13.5       | [HW 7][] Prob, due Wed 30 Mar 23:59      | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
+|          |          | [Probability][]                   | 12.1--13.5       | [HW 7][] Prob, due Fri 28 Oct 23:59      | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
 | **8**    | 28 Oct   | [Bayes Nets I][]                  | 13.1, 13.2       |                                          |                       | [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] |
-|          |          | [Bayes Nets II][]                 | 13.3             | [HW 8][] Bayes Nets, due ~Wed 6~ Fri 8 Apr 23:59 |               | [BN: independence (YouTube)][]  |                    | |
+|          |          | [Bayes Nets II][]                 | 13.3             | [HW 8][] Bayes Nets, due Fri 4 Nov 23:59 |                       | [BN: independence (YouTube)][]  |                    | |
 | **9**    | 4 Nov    | [Bayes Nets III][]                | 13.4             |                                          | [Project 3][] **due** | [BN: inference (YouTube)][]     |                    | |
 |          |          | Review for exam                   | [Jordan 2.1][]  (optional reading) |                        |                       |                                 |                    | | 
 | **10**   | 11 Nov   | EXAM (scope: 9 Sep--28 Oct)       |                  |                                          |                       |                                 |                    | |
 |          |          |                                   |                  |                                          |                       |                                 |                    | |
-| **11**   | 18 Nov   | [Bayes Nets IV][]                 | 13.5             | [HW 9][]. HMM; due ~Wed 13~ Fri 22 Apr 23:59   |                 | [BN: sampling (YouTube)][]      |                    | |
-|          |          |  [Decision Networks and VPI][]   | 16.5, 16.6       |                                          |                       | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] |
-| **12**   | 23 Apr   | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] |
-|          | (Wed)    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Wed 27 Apr 23:59     |                       | [Particle filters (YouTube)][]  |                    | |
+| **11**   | 18 Nov   | [Bayes Nets IV][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov 23:59      |                       | [BN: sampling (YouTube)][]      |                    | |
+|          |          | [Decision Networks and VPI][]     | 16.5, 16.6       |                                          |                       | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] |
+| **12**   | 23 Nov   | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] |
+|          | (Wed)    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec 23:59 |               | [Particle filters (YouTube)][]  |                    | |
 | **13**   | 2 Dec    | [ML: Naïve Bayes][]               | 20.1, 20.2       |                                          |                       | [ML: Naive Bayes (YouTube)][]   |  [Note 9: ML][]    | |
 |          |          | [ML: Perceptrons, Logit][]        | 19.6, 19.7       |                                          |                       | [ML: Perceptrons, Logit (YouTube)][] |               | |
 | **14**   | 9 Dec    | [ML: Optimization][]              | 18.6.3, 18.8     |                                          | [Project 4][] **due** |                                 | [Note 10: Neural Nets][] | | 
 |          |          | [ML: Neural Nets][]               | Ch 21            |                                          |                       | [ML: Neural Nets (YouTube)][]   |                    | |
-| **15**   | 16 Dec   | [Final Exams][] begin                 |                  |                                          |                       |                                 |                    | |
-|          |          |                                   |                  |                                          |                       |                                 |                    | |
-| **16**   | 23 Dec   |
-|          | 4 May    | (reading day)    
-|          | 6 May    | (reading day)                     |                  |                                          |                       |                                 |                    | |
-|          | 6 May    | (final exams begin)               |                  |                                          |                       |                                 |                    | |
-|          | 10 May   | **FINAL EXAM** 14:30--17:00 in [KUPF][] Rm. 202 |    |                                          |                       |                                 |                    | |
-|          | 14 May   | (final grades due)                |                  |                                          |                       |                                 |                    | |
+| **15**   | 16 Dec   | ([final exams][] begin)           |                  |                                          |                       |                                 |                    | |
+| **16**   | 24 Dec   | (final grades due)                |                  |                                          |                       |                                 |                    | |
 
 
 ----------------------
@@ -63,7 +57,7 @@ The Berkeley course presented the material in different order than ours.
 | September	12 | Monday | Last Day to Add/Drop a Class |
 | September	12 | Monday | Last Day for 100% Refund, Full or Partial Withdrawal |
 | September	13 | Tuesday | W Grades Posted for Course Withdrawals |
-| September	19 | Monday | Last Day for 90% Refund, Full or Partial Withdrawal - No Refund for Partial Withdrawal after this date |
+| September	19 | Monday | Last Day for 90% Refund, Full or Partial Withdrawal |
 | October	3 | Monday | Last Day for 50% Refund, Full Withdrawal |
 | October	24 | Monday | Last Day for 25% Refund, Full Withdrawal |
 | November	14 | Monday | Last Day to Withdraw from Classes  |
@@ -84,7 +78,7 @@ The Berkeley course presented the material in different order than ours.
 
 
 
-[Final Exams]: https://www5.njit.edu/registrar/exams/finalexams.php
+[final exams]: https://www5.njit.edu/registrar/exams/finalexams.php
 
 
 
@@ -123,7 +117,6 @@ The Berkeley course presented the material in different order than ours.
 
 <!-- HW LINKS -->
 
-[HW 0]: https://njit.instructure.com/courses/22602/quizzes
 [HW 1]: https://www.gradescope.com/courses/361553
 [HW 2]: https://www.gradescope.com/courses/361553
 [HW 3]: https://www.gradescope.com/courses/361553
