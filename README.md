@@ -4,7 +4,7 @@
 
 ---
 
-## What is this web page about?
+## What is this web page?
 
 This is the main web page for *Section 103* of the course *CS 370, Introduction to Artificial Intelligence* taught in the fall semester of 2022 at NJIT.
 
@@ -12,14 +12,17 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 
 ---
 
+## What is the course about?
+
+*Description*. "An exploration of concepts, approaches and techniques of artificial intelligence. Emphasizes both underlying theory and applications. Topics include *knowledge representation*, *parsing language*, *search*, *logic*, *adduction*, *uncertainty*, and *learning*. Some subset of the following programming languages will be used: LISP, Prolog, Python, and Scala. Students are required to do programming assignments, complete a programming term project and review case studies."
+
+*Source*. NJIT course catalog
+
+-----------------------
+
 ## When and where are the lectures?
 
 **Lecture Time and Location**. 18:00--20:50 Friday in [KUPF 202][]  
-**Final Exam Date and Time**. TBA  
-**Course Webpage**. [github.com/williamdemeo/cs370-fall2022](https://github.com/williamdemeo/cs370-fall2022)  
-**Canvass Webpage**. TBA  
-**Course Schedule**. 
-[github.com/williamdemeo/cs370-fall2022/schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule)
 
 ---
 
@@ -43,13 +46,16 @@ Students should have achieved a grade of C or better in [CS 114](https://catalog
 
 ------------------
 
-## What is the course about?
+## Where is the schedule/Canvas/homework page?
 
-*Description*. "An exploration of concepts, approaches and techniques of artificial intelligence. Emphasizes both underlying theory and applications. Topics include *knowledge representation*, *parsing language*, *search*, *logic*, *adduction*, *uncertainty*, and *learning*. Some subset of the following programming languages will be used: LISP, Prolog, Python, and Scala. Students are required to do programming assignments, complete a programming term project and review case studies."
+**Course Schedule**. 
+[github.com/williamdemeo/cs370-fall2022/schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule)
 
-*Source*. NJIT course catalog
+**Canvass Webpage**. TBA  
 
+**Course Homework Webpage**.  The homework information page is [github.com/williamdemeo/cs370-fall2022/homework](https://github.com/williamdemeo/cs370-fall2022/tree/master/homework)  
 
+The [Gradescope][] page for this class is [here](https://www.gradescope.com/courses/441050).
 
 <!--
 
@@ -310,3 +316,4 @@ early in the semester in order to have their learning needs appropriately met.
 [Probability]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec14-Probability.pptx
 [Bayes Nets I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec15-BayesNets-I.pptx
 
+[Gradescope]: https://www.gradescope.com/courses/441050

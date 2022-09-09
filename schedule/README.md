@@ -116,18 +116,32 @@ The Berkeley course presented the material in different order than ours.
 
 
 <!-- HW LINKS -->
+[Gradescope]: https://www.gradescope.com/courses/441050
 
-[HW 1]: https://www.gradescope.com/courses/361553
-[HW 2]: https://www.gradescope.com/courses/361553
-[HW 3]: https://www.gradescope.com/courses/361553
-[HW 4]: https://www.gradescope.com/courses/361553
-[HW 5]: https://www.gradescope.com/courses/361553
-[HW 6]: https://www.gradescope.com/courses/361553
-[HW 7]: https://www.gradescope.com/courses/361553
-[HW 8]: https://www.gradescope.com/courses/361553
-[HW 9]: https://www.gradescope.com/courses/361553
-[HW 10]: https://www.gradescope.com/courses/361553
-[HW 11]: https://www.gradescope.com/courses/361553
+<!-- [HW 1]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 2]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 3]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 4]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 5]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 6]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 7]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 8]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 9]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 10]: https://www.gradescope.com/courses/441050 -->
+<!-- [HW 11]: https://www.gradescope.com/courses/441050 -->
+
+[HW 1]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 2]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 3]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 4]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 5]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 6]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 7]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 8]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 9]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 10]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[HW 11]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+
 
 
 <!-- LINKS TO UCB LECTURE YOUTUBE VIDEOS -->
