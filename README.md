@@ -12,6 +12,32 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 
 ---
 
+**Contents**
+
+- [What is this web page?](#what-is-this-web-page)
+- [What is the course about?](#what-is-the-course-about)
+- [When and where are the lectures?](#when-and-where-are-the-lectures)
+- [Who is the instructor?](#who-is-the-instructor)
+- [Am I qualified to take this course?](#am-i-qualified-to-take-this-course)
+- [Where is the course schedule/Canvas/homework page?](#where-is-the-course-schedulecanvashomework-page)
+- [Where is the course schedule?](#where-is-the-course-schedule)
+- [When and where are the exams?](#when-and-where-are-the-exams)
+- [What is the main textbook?](#what-is-the-main-textbook)
+- [Do I have to attend all the lectures?](#do-i-have-to-attend-all-the-lectures)
+- [What is expected of an NJIT student?](#what-is-expected-of-an-njit-student)
+- [Can I use electronic devices during lecture?](#can-i-use-electronic-devices-during-lecture)
+- [What is the grading policy?](#what-is-the-grading-policy)
+- [Where can I find the homework?](#where-can-i-find-the-homework)
+- [Can I turn in assignments after the deadline?](#can-i-turn-in-assignments-after-the-deadline)
+- [Is it possible to make-up a missed exam?](#is-it-possible-to-make-up-a-missed-exam)
+- [(How) Should I ask questions?](#how-should-i-ask-questions)
+- [Is tutoring available?](#is-tutoring-available)
+- [Can I email the instructor?](#can-i-email-the-instructor)
+- [What if I have a disability?](#what-if-i-have-a-disability)
+
+--------------------
+
+
 ## What is the course about?
 
 *Description*. "An exploration of concepts, approaches and techniques of artificial intelligence. Emphasizes both underlying theory and applications. Topics include *knowledge representation*, *parsing language*, *search*, *logic*, *adduction*, *uncertainty*, and *learning*. Some subset of the following programming languages will be used: LISP, Prolog, Python, and Scala. Students are required to do programming assignments, complete a programming term project and review case studies."
@@ -46,14 +72,14 @@ Students should have achieved a grade of C or better in [CS 114](https://catalog
 
 ------------------
 
-## Where is the schedule/Canvas/homework page?
+## Where is the course schedule/Canvas/homework page?
 
 **Course Schedule**. 
 [github.com/williamdemeo/cs370-fall2022/schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule)
 
-**Canvass Webpage**. TBA  
+**Canvass page**. TBA  
 
-**Course Homework Webpage**.  The homework information page is [github.com/williamdemeo/cs370-fall2022/homework](https://github.com/williamdemeo/cs370-fall2022/tree/master/homework)  
+**Homework page**.  The homework information page is at [github.com/williamdemeo/cs370-fall2022/homework](https://github.com/williamdemeo/cs370-fall2022/tree/master/homework).
 
 The [Gradescope][] page for this class is [here](https://www.gradescope.com/courses/441050).
 
@@ -75,6 +101,24 @@ By the end of this course, you will have built autonomous agents that efficientl
 See [the schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule) for tentative lecture and homework schedule (subject to change).
 
 Readings refer to [the fourth edition of the required textbook (AIMA)](https://www.amazon.com/gp/product/0134610997/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134610997&linkCode=as2&tag=typefunc-20&linkId=7b927a65ec495610d347f7c2d096ef14) unless otherwise indicated.
+
+-----------------------------------
+
+## When and where are the exams?
+
+**All exams take place in our usual classroom**, [KUPF 202][].
+
++  **MIDTERM EXAM**  
+   **Topics**. [Agents and Environments][], [Uninformed Search][], [Informed Search][], [A* Search and Heuristics][], [CSP I][], [CSP II][], [Adversarial Search I][], [Adversarial Search II][], [Markov Decision Processes I][], [Markov Decision Processes II][], [Reinforcement Learning I][], [Reinforcement Learning II][], [Probability][], [Bayes Nets I][]  
+   **DATE**. TBA
+  
++  **FINAL EXAM** (cumulative)  
+   **DATE**. TBA  
+   **TIME**. TBA  
+   **PLACE**. [KUPF][] Rm. 202
+
+
+In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
 
 ---------------------------------
 
@@ -186,24 +230,6 @@ performance.
 + D: 60--65   
 + F:  0--59    
 
-
------------------------------------
-
-## When are the exams?
-
-**All exams take place in our usual classroom**, [KUPF 202][].
-
-+  **MIDTERM EXAM**  
-   **Topics**. [Agents and Environments][], [Uninformed Search][], [Informed Search][], [A* Search and Heuristics][], [CSP I][], [CSP II][], [Adversarial Search I][], [Adversarial Search II][], [Markov Decision Processes I][], [Markov Decision Processes II][], [Reinforcement Learning I][], [Reinforcement Learning II][], [Probability][], [Bayes Nets I][]  
-   **DATE**. TBA
-  
-+  **FINAL EXAM** (cumulative)  
-   **DATE**. TBA  
-   **TIME**. TBA  
-   **PLACE**. [KUPF][] Rm. 202
-
-
-In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
 
 -----------------------------------
 

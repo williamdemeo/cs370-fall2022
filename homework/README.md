@@ -2,11 +2,17 @@
 
 ## Homework
 
-Homework assignments should be submitted on [Gradescope][].
+Homework assignments must be submitted on [Gradescope][].
+
+The pdf files here are provided merely for the convenience of students, for practice or study purposes. They may not be used as a substitute for submitting homework on Gradescope.
+
+## Gradescope Entry Code
 
 The [Gradescope][] page for this class is [here](https://www.gradescope.com/courses/441050).
 
-The pdf files here are provided merely for the convenience of students, for practice or study purposes. They may not be used as a substitute for submitting homework on Gradescope.
+Students can self-enroll in Gradescope using the following
+
+**Entry Code** RZ53ZD
 
 
 ### Homework Solutions
