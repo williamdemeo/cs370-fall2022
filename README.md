@@ -14,7 +14,6 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 
 **Contents**
 
-- [What is this web page?](#what-is-this-web-page)
 - [What is the course about?](#what-is-the-course-about)
 - [When and where are the lectures?](#when-and-where-are-the-lectures)
 - [Who is the instructor?](#who-is-the-instructor)
