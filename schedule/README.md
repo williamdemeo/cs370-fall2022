@@ -17,30 +17,30 @@ The Berkeley course presented the material in different order than ours.
 | **1**    | 9 Sep    | [Intro to AI (UCB version)][]     | Ch 1             |                                          |                       | [Intro to AI (YouTube)][]       |                    | |
 |          |          | [Agents and Environments][]       | Ch 2             | [HW 1][] Agents, due Fri 16 Sep 23:59    |                       |                                 |                    | |
 | **2**    | 16 Sep   | [Uninformed Search][]             | 3.1--3.4         |                                          |                       | [Uninformed Search (YouTube)][] | [Note 1: Search][] | [Note 1 (Fa '18)][]|
-|          |          | [Informed Search][]               | 3.5, 3.6         | [HW 2][] Search, due Fri 23 Sep 23:59    |                       | [Informed Search (YouTube)][]   |                    | |
+|          |          | [Informed Search][]               | 3.5, 3.6         | [HW 2][] Search, due Fri 23 Sep          |                       | [Informed Search (YouTube)][]   |                    | |
 | **3**    | 23 Sep   | [A* Search and Heuristics][]      | 4.1, 4.2         |                                          |                       |                                 | [Note 2: Local Search][] | |
-|          |          | [CSP I][]                         | 6.1, 6.2         | [HW 3][] CSP, due Fri 30 Sep 23:59       | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
+|          |          | [CSP I][]                         | 6.1, 6.2         | [HW 3][] CSP, due Fri 30 Sep             | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
 | **4**    | 30 Sep   | [CSP II][]                        | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
-|          |          | [Adversarial Search I][]          | 5.2--5.5         | [HW 4][] Games, due Fri 7 Oct 23:59      |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
+|          |          | [Adversarial Search I][]          | 5.2--5.5         | [HW 4][] Games, due Fri 7 Oct            |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
 | **5**    | 7  Oct   | [Adversarial Search II][]         | 16.1--16.3       |                                          |                       | [Game Trees II (YouTube)][]     | [Note 4: Nondeterministic Search][] | |
-|          |          | [Markov Decision Processes I][]   | 17.1--17.3       | [HW 5][] MDP, due Fri 14 Oct 23:59       | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
+|          |          | [Markov Decision Processes I][]   | 17.1--17.3       | [HW 5][] MDP, due Fri 14 Oct             | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
 | **6**    | 14 Oct   | [Markov Decision Processes II][]  |                  |                                          |                       | [MDP II (YouTube)][]            |                    | |
-|          |          | [Reinforcement Learning I][]      | Ch 22            | [HW 6][] RL, due Fri 21 Oct 23:59        |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
+|          |          | [Reinforcement Learning I][]      | Ch 22            | [HW 6][] RL, due Fri 21 Oct              |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
 | **7**    | 21 Oct   | [Reinforcement Learning II][]     | Ch 22            |                                          |                       | [RL II (YouTube)][]             |                    | |
-|          |          | [Probability][]                   | 12.1--13.5       | [HW 7][] Prob, due Fri 28 Oct 23:59      | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
+|          |          | [Probability][]                   | 12.1--13.5       | [HW 7][] Prob, due Fri 28 Oct            | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
 | **8**    | 28 Oct   | [Bayes Nets I][]                  | 13.1, 13.2       |                                          |                       | [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] |
-|          |          | [Bayes Nets II][]                 | 13.3             | [HW 8][] Bayes Nets, due Fri 4 Nov 23:59 |                       | [BN: independence (YouTube)][]  |                    | |
-| **9**    | 4 Nov    | [Bayes Nets III][]                | 13.4             |                                          | [Project 3][] **due** | [BN: inference (YouTube)][]     |                    | |
-|          |          | Review for exam                   | [Jordan 2.1][]  (optional reading) |                        |                       |                                 |                    | | 
+|          |          | [Bayes Nets II][]                 | 13.3             | [HW 8][] Bayes Nets, due Fri 4 Nov       |                       | [BN: independence (YouTube)][]  |                    | |
+| **9**    | 4 Nov    | [Bayes Nets III][]                | 13.4             |                                          |                       | [BN: inference (YouTube)][]     |                    | |
+|          |          | Review for exam                   | [Jordan 2.1][]  (optional reading) |                        | [Project 3][] **due** |                                 |                    | | 
 | **10**   | 11 Nov   | EXAM (scope: 9 Sep--28 Oct)       |                  |                                          |                       |                                 |                    | |
 |          |          |                                   |                  |                                          |                       |                                 |                    | |
-| **11**   | 18 Nov   | [Bayes Nets IV][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov 23:59      |                       | [BN: sampling (YouTube)][]      |                    | |
+| **11**   | 18 Nov   | [Bayes Nets IV][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov            |                       | [BN: sampling (YouTube)][]      |                    | |
 |          |          | [Decision Networks and VPI][]     | 16.5, 16.6       |                                          |                       | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] |
 | **12**   | 23 Nov   | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] |
-|          | (Wed)    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec 23:59 |               | [Particle filters (YouTube)][]  |                    | |
+|          | (Wed)    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec |                     | [Particle filters (YouTube)][]  |                    | |
 | **13**   | 2 Dec    | [ML: Naïve Bayes][]               | 20.1, 20.2       |                                          |                       | [ML: Naive Bayes (YouTube)][]   |  [Note 9: ML][]    | |
-|          |          | [ML: Perceptrons, Logit][]        | 19.6, 19.7       |                                          |                       | [ML: Perceptrons, Logit (YouTube)][] |               | |
-| **14**   | 9 Dec    | [ML: Optimization][]              | 18.6.3, 18.8     |                                          | [Project 4][] **due** |                                 | [Note 10: Neural Nets][] | | 
+|          |          | [ML: Perceptrons, Logit][]        | 19.6, 19.7       |                                          | [Project 4][] **due** | [ML: Perceptrons, Logit (YouTube)][] |               | |
+| **14**   | 9 Dec    | [ML: Optimization][]              | 18.6.3, 18.8     |                                          |                       |                                 | [Note 10: Neural Nets][] | | 
 |          |          | [ML: Neural Nets][]               | Ch 21            |                                          |                       | [ML: Neural Nets (YouTube)][]   |                    | |
 | **15**   | 16 Dec   | ([final exams][] begin)           |                  |                                          |                       |                                 |                    | |
 | **16**   | 24 Dec   | (final grades due)                |                  |                                          |                       |                                 |                    | |
@@ -90,20 +90,20 @@ The Berkeley course presented the material in different order than ours.
 [Note 1: Search]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n1_sp22.pdf
 [Note 1 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n01-search.pdf
 [Note 2: Local Search]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n2_sp22.pdf
-[Note 2: CSP]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n02-csp.pdf 
+[Note 2: CSP]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n02-csp.pdf 
 [CSP applet]: https://inst.eecs.berkeley.edu/~cs188/fa21/assets/demos/csp/csp_demos.html
 [Note 3: Games]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n3_sp22.pdf
-[Note 3 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n03-adversarial-search.pdf
-[Note 4: Nondeterministic Search]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n04-nondeterministic-search.pdf
+[Note 3 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n03-adversarial-search.pdf
+[Note 4: Nondeterministic Search]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n04-nondeterministic-search.pdf
 [Note 4: Logical Agents]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n4_sp22.pdf
-[Note 5: Reinforcement Learning]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n05-rl.pdf
+[Note 5: Reinforcement Learning]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n05-rl.pdf
 [Note 5: Bayes Nets]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n5_sp22.pdf
-[Note 6 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n06-bayes-nets.pdf
+[Note 6 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n06-bayes-nets.pdf
 [Note 6: HMM]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/notes/n6_sp22.pdf
-[Note 7: Decision Networks]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n07-decision-networks.pdf
-[Note 8 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n08-hmm.pdf
-[Note 9: ML]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n09-ml.pdf
-[Note 10: Neural Nets]: https://github.com/williamdemeo/cs370-fall2022/tree/master/notes/n10-neural-nets.pdf
+[Note 7: Decision Networks]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n07-decision-networks.pdf
+[Note 8 (Fa '18)]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n08-hmm.pdf
+[Note 9: ML]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n09-ml.pdf
+[Note 10: Neural Nets]: https://github.com/williamdemeo/cs370-fall2022/tree/master/lecture/notes/n10-neural-nets.pdf
 
 
 <!-- Project LINKS -->
