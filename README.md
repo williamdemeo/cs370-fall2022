@@ -1,6 +1,6 @@
-## CS 370: Introduction to Artificial Intelligence (Section 103)
+# CS 370: Introduction to Artificial Intelligence (Section 103)
 
-### NJIT Fall 2022
+## NJIT Fall 2022
 
 ---
 
@@ -74,7 +74,10 @@ Students should have achieved a grade of C or better in [CS 114](https://catalog
 ## Where is the course schedule/Canvas/homework page?
 
 **Course Schedule**. 
-[github.com/williamdemeo/cs370-fall2022/schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule)
+
+The page at [github.com/williamdemeo/cs370-fall2022/schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule) provides a tentative lecture and homework schedule (subject to change).
+
+Readings refer to [the fourth edition of the required textbook (AIMA)](https://www.amazon.com/gp/product/0134610997/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134610997&linkCode=as2&tag=typefunc-20&linkId=7b927a65ec495610d347f7c2d096ef14) unless otherwise indicated.
 
 **Canvass page**. TBA  
 
@@ -94,14 +97,6 @@ By the end of this course, you will have built autonomous agents that efficientl
 
 
 --------------------------------------------------------------------
-
-## Where is the course schedule?
-
-See [the schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule) for tentative lecture and homework schedule (subject to change).
-
-Readings refer to [the fourth edition of the required textbook (AIMA)](https://www.amazon.com/gp/product/0134610997/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134610997&linkCode=as2&tag=typefunc-20&linkId=7b927a65ec495610d347f7c2d096ef14) unless otherwise indicated.
-
------------------------------------
 
 ## When and where are the exams?
 
@@ -234,19 +229,19 @@ performance.
 
 ## Where can I find the homework?
 
-The written homework assignments will account for 30% of the course grade and will be due most weeks on Wednesday by 10:59pm, unless otherwise indicated.  See the tentative [course schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule).
+All homework will be submitted online on [Gradescope][].  See the tentative [course schedule](https://github.com/williamdemeo/cs370-fall2022/tree/master/schedule).
 
 The lowest (or missed) homework score will be dropped and not counted toward the final course grade.
 
-Descriptions of each homework assignment will be available in the homework directory of this repository.  You are strongly encouraged to start the homework early, so that you will have time to get help from the instructor or [a tutor](#tutoring-service) if you need it.
+Descriptions and pdf versions of each homework assignment will be available in the homework directory of this repository for your reference, but you must complete and submit the homework online on the [Gradescope][] web site for this course.
+
+You are strongly encouraged to start the homework early so that you have time to get help from the instructor or [a tutor](#tutoring-service) if you need it.
 
 -----------------------------------
 
 ## Can I turn in assignments after the deadline?
 
-**No late homework will be accepted for any reason**.  If you fail
-to submit homework on time, this will not necessarily hurt
-your final course grade since the lowest homework score will be dropped.
+**No late homework will be accepted**.  However, if many students are struggling to complete a particular homework assignment and if they communicate these difficulties with their instructor before the homework deadline, it is possible that a class-wide extension may be granted.  Also, if you fail to submit homework on time, this will not necessarily hurt your final course grade since the lowest homework score will be dropped.
 
 -------------------
 

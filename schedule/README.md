@@ -4,6 +4,8 @@
 
 The *tentative* lecture and homework schedule shown below is subject to change.  Students should return to this page often throughout the semester to keep aprised of modifications in the schedule or homework due dates.
 
+Readings refer to [the fourth edition of the required textbook (AIMA)](https://www.amazon.com/gp/product/0134610997/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0134610997&linkCode=as2&tag=typefunc-20&linkId=7b927a65ec495610d347f7c2d096ef14) unless otherwise indicated.
+
 The links in the last column point to the AI lectures at UC Berkeley on the same material.
 The Berkeley course presented the material in different order than ours.
 
@@ -118,29 +120,18 @@ The Berkeley course presented the material in different order than ours.
 <!-- HW LINKS -->
 [Gradescope]: https://www.gradescope.com/courses/441050
 
-<!-- [HW 1]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 2]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 3]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 4]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 5]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 6]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 7]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 8]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 9]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 10]: https://www.gradescope.com/courses/441050 -->
-<!-- [HW 11]: https://www.gradescope.com/courses/441050 -->
+[HW 1]: https://www.gradescope.com/courses/441050
+[HW 2]: https://www.gradescope.com/courses/441050
+[HW 3]: https://www.gradescope.com/courses/441050
+[HW 4]: https://www.gradescope.com/courses/441050
+[HW 5]: https://www.gradescope.com/courses/441050
+[HW 6]: https://www.gradescope.com/courses/441050
+[HW 7]: https://www.gradescope.com/courses/441050
+[HW 8]: https://www.gradescope.com/courses/441050
+[HW 9]: https://www.gradescope.com/courses/441050
+[HW 10]: https://www.gradescope.com/courses/441050
+[HW 11]: https://www.gradescope.com/courses/441050
 
-[HW 1]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 2]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 3]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 4]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 5]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 6]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 7]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 8]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 9]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 10]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[HW 11]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 
 
 
@@ -171,12 +162,14 @@ The Berkeley course presented the material in different order than ours.
 [ML: Decision Trees (YouTube)]: https://youtu.be/svW3I0cqfpw
 [Robotics (YouTube)]: https://youtu.be/MxS1aYvYNNc
 
+
 <!-- LINKS TO LECTURE SLIDES -->
 [Intro to AI (UCB version)]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture1.pptx
 [Agents and Environments]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec02-AgentsAndEnvironments.pptx
+[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec03-Search.pptx
+[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec04-InformedSearch.pptx
 
-<!-- [Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec03-Search.pptx -->
-<!-- [Informed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec04-InformedSearch.pptx -->
+
 <!-- [A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec05-AstarSearchAndHeuristics.pptx -->
 <!-- [CSP I]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec06-CSP-I.pptx  -->
 <!-- [CSP II]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec07-CSP-II.pptx -->
@@ -206,8 +199,9 @@ The Berkeley course presented the material in different order than ours.
 <!-- [Conclusion]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md -->
 
 
-[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+
+<!-- [Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md -->
+<!-- [Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md -->
 [A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
