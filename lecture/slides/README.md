@@ -12,8 +12,8 @@ Here's a list with links to the corresponding slide deck.
    [Agents and Environments](https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec02-AgentsAndEnvironments.pptx)
 
 *  **Week 2**
-   [Uninformed Search](https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec03-Search.pptx)
-   [Informed Search](https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec04-InformedSearch.pptx)
+   [Uninformed Search](https://njit0-my.sharepoint.com/:p:/g/personal/wjd_njit_edu/EfkJDFGCA61Ipn8zNRUVHK8BswfmG9ngxoZISNPR1BOvKw?e=XIRgxy) [(local version)](https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec03-UninformedSearch.pptx)
+   [Informed Search](https://njit0-my.sharepoint.com/:p:/g/personal/wjd_njit_edu/EQ5yd0gueIVMommBXiaGm0AB79pBc2ocb7DG8FzC73fqAw?e=heeJPk) [(local version)](https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec04-InformedSearch.pptx)
 
 
 <!-- [A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec05-AstarSearchAndHeuristics.pptx -->
