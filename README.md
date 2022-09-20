@@ -55,8 +55,8 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 
 **Instructor**.  Dr. William DeMeo   
 **Email**. [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=CS370: (replace-this-text-with-informative-subject-description))    
-**Office location**. TBA  
-**Office hours**. TBA
+**Office location**. [GITC][] 4201A  
+**Office hours**. Tuesdays 14:00--16:00
 
 <!-- **Remarks about office hours**. -->
 <!-- The regularly scheduled office hours are subject to change. -->
@@ -317,23 +317,29 @@ accommodations, but **will not provide them retroactively**
 Students must have their paper work in order and should contact the instructor 
 early in the semester in order to have their learning needs appropriately met. 
 
-[Canvas]: https://njit.instructure.com/courses/25677
-[Lean]: https://leanprover.github.io/
-[KUPF]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
-[KUPF 202]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
-[Agents and Environments]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec02-AgentsAndEnvironments.pptx
-[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec03-Search.pptx
-[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec04-InformedSearch.pptx
+----------
+
+
 [A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec05-AstarSearchAndHeuristics.pptx
-[CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec06-CSP-I.pptx 
-[CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec07-CSP-II.pptx
 [Adversarial Search I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec08-AdversarialSearch-I.pptx
 [Adversarial Search II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec09-AdversarialSearch-II.pptx
+[Agents and Environments]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec02-AgentsAndEnvironments.pptx
+[Bayes Nets I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec15-BayesNets-I.pptx
+[CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec06-CSP-I.pptx 
+[CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec07-CSP-II.pptx
+[Canvas]: https://njit.instructure.com/courses/25677
+[GITC]: https://goo.gl/maps/ZTgr4sBaF8VegC2DA
+[Gradescope]: https://www.gradescope.com/courses/441050
+[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec04-InformedSearch.pptx
+[KUPF]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
+[KUPF 202]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
+[Lean]: https://leanprover.github.io/
 [Markov Decision Processes I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec10-MDP-I.pptx
 [Markov Decision Processes II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec11-MDP-II.pptx
+[Probability]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec14-Probability.pptx
 [Reinforcement Learning I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec12-RL-I.pptx
 [Reinforcement Learning II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec13-RL-II.pptx
-[Probability]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec14-Probability.pptx
-[Bayes Nets I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec15-BayesNets-I.pptx
+[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/CS370-Lec03-Search.pptx
 
-[Gradescope]: https://www.gradescope.com/courses/441050
+
+
