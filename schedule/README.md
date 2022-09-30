@@ -17,26 +17,26 @@ The Berkeley course presented the material in different order than ours.
 | **Week** | **Date** | **Topic**                         | **Reading**      | **Homework**                             | **Project Due Dates** | **UCB Videos**                  | **UCB Notes**      | **Alternative Notes** |
 |----------|----------|-----------------------------------|------------------|------------------------------------------|-----------------------|---------------------------------|--------------------|-----------------------|
 | **1**    | 9 Sep    | [Intro to AI (UCB version)][]     | Ch 1             |                                          |                       | [Intro to AI (YouTube)][]       |                    | |
-|          |          | [Agents and Environments][]       | Ch 2             | [HW 1][] Agents, due Mon 19 Sep 23:59    |                       |                                 |                    | |
+|          |          |                                   | Ch 2             | [HW 1][] Agents, due Mon 19 Sep 23:59    |                       |                                 |                    | |
 | **2**    | 16 Sep   | [Uninformed Search][]             | 3.1--3.4         |                                          |                       | [Uninformed Search (YouTube)][] | [Note 1: Search][] | [Note 1 (Fa '18)][]|
-|          |          | [Informed Search][]               | 3.5, 3.6         | [HW 2][] Search, due Mon 26 Sep          |                       | [Informed Search (YouTube)][]   |                    | |
-| **3**    | 23 Sep   | [A* Search and Heuristics][]      | 4.1, 4.2         |                                          |                       |                                 | [Note 2: Local Search][] | |
-|          |          | [CSP I][]                         | 6.1, 6.2         | [HW 3][] CSP, due Mon 10 Oct              | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
-| **4**    | 30 Sep   | [CSP II][]                        | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
-|          |          | [Adversarial Search I][]          | 5.2--5.5         | [HW 4][] Games, due Mon 17 Oct            |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
-| **5**    | 7  Oct   | [Adversarial Search II][]         | 16.1--16.3       |                                          |                       | [Game Trees II (YouTube)][]     | [Note 4: Nondeterministic Search][] | |
-|          |          | [Markov Decision Processes I][]   | 17.1--17.3       | [HW 5][] MDP, due Mon 24 Oct             | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
-| **6**    | 14 Oct   | [Markov Decision Processes II][]  |                  |                                          |                       | [MDP II (YouTube)][]            |                    | |
-|          |          | [Reinforcement Learning I][]      | Ch 22            | [HW 6][] RL, due Mon 31 Oct              |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
-| **7**    | 21 Oct   | [Reinforcement Learning II][]     | Ch 22            |                                          |                       | [RL II (YouTube)][]             |                    | |
-|          |          | [Probability][]                   | 12.1--13.5       | [HW 7][] Prob, due Mon 7 Nov            | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
-| **8**    | 28 Oct   | [Bayes Nets I][]                  | 13.1, 13.2       |                                          |                       | [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] |
-|          |          | [Bayes Nets II][]                 | 13.3             | [HW 8][] Bayes Nets, due Mon 7 Nov       |                       | [BN: independence (YouTube)][]  |                    | |
-| **9**    | 4 Nov    | [Bayes Nets III][]                | 13.4             |                                          |                       | [BN: inference (YouTube)][]     |                    | |
+|          |          |                                   | 3.5, 3.6         | [HW 2][] Search, due Mon 26 Sep          |                       | [Informed Search (YouTube)][]   |                    | |
+| **3**    | 23 Sep   | [Informed Search][]               | 4.1, 4.2         |                                          |                       |                                 | [Note 2: Local Search][] | |
+|          |          |                                   | 6.1, 6.2         | [HW 3][] CSP, due Mon 10 Oct              | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
+| **4**    | 30 Sep   | [CSP I][] [CSP II][]              | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
+|          |          |                                   | 5.2--5.5         | [HW 4][] Games, due Mon 17 Oct            |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
+| **5**    | 7  Oct   | [Adversarial Search I][]       | 16.1--16.3       |                                          |                       | [Game Trees II (YouTube)][]     | [Note 4: Nondeterministic Search][] | |
+|          |          | [Adversarial Search II][]     | 17.1--17.3       | [HW 5][] MDP, due Mon 24 Oct             | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
+| **6**    | 14 Oct   | [Markov Decision Processes I][] |                  |                                          |                       | [MDP II (YouTube)][]            |                    | |
+|          |          | [Markov Decision Processes II][]     | Ch 22            | [HW 6][] RL, due Mon 31 Oct              |                       | [RL I (YouTube)][]              | [Note 5: Reinforcement Learning][] | |
+| **7**    | 21 Oct   | [Reinforcement Learning I][]    | Ch 22            |                                          |                       | [RL II (YouTube)][]             |                    | |
+|          |          | [Reinforcement Learning II][]                | 12.1--13.5       | [HW 7][] Prob, due Mon 7 Nov            | [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
+| **8**    | 28 Oct   |   [Probability][]              | 13.1, 13.2       |                                          |                       | [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] |
+|          |          | [Bayes Nets I][]                 | 13.3             | [HW 8][] Bayes Nets, due Mon 7 Nov       |                       | [BN: independence (YouTube)][]  |                    | |
+| **9**    | 4 Nov    | [Bayes Nets II][]                | 13.4             |                                          |                       | [BN: inference (YouTube)][]     |                    | |
 |          |          | Review for exam                   | [Jordan 2.1][]  (optional reading) |                        | [Project 3][] **due** |                                 |                    | | 
 | **10**   | 11 Nov   | EXAM (scope: 9 Sep--28 Oct)       |                  |                                          |                       |                                 |                    | |
 |          |          |                                   |                  |                                          |                       |                                 |                    | |
-| **11**   | 18 Nov   | [Bayes Nets IV][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov            |                       | [BN: sampling (YouTube)][]      |                    | |
+| **11**   | 18 Nov   | [Bayes Nets III][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov            |                       | [BN: sampling (YouTube)][]      |                    | |
 |          |          | [Decision Networks and VPI][]     | 16.5, 16.6       |                                          |                       | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] |
 | **12**   | 23 Nov   | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] |
 |          | (Wed)    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec |                     | [Particle filters (YouTube)][]  |                    | |
@@ -200,11 +200,10 @@ The Berkeley course presented the material in different order than ours.
 
 
 
-<!-- [Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md -->
-<!-- [Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md -->
-[A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
-[CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
+[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week02-UninformedSearch.pptx
+[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week03-InformedSearch.pptx
+[CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week04-CSP-Part1.pptx
+[CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week04-CSP-Part2.pptx
 [Adversarial Search I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [Adversarial Search II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [Markov Decision Processes I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
