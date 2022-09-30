@@ -22,8 +22,8 @@ The Berkeley course presented the material in different order than ours.
 |          |          |                                   | 3.5, 3.6         | [HW 2][] Search, due Mon 26 Sep          |                       | [Informed Search (YouTube)][]   |                    | |
 | **3**    | 23 Sep   | [Informed Search][]               | 4.1, 4.2         |                                          |                       |                                 | [Note 2: Local Search][] | |
 |          |          |                                   | 6.1, 6.2         | [HW 3][] CSP, due Mon 10 Oct              | [Project 0][] **due** | [CSP I (YouTube)][]             | [Note 2: CSP][]    | |
-| **4**    | 30 Sep   | [CSP I][] [CSP II][]              | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
-|          |          |                                   | 5.2--5.5         | [HW 4][] Games, due Mon 17 Oct            |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
+| **4**    | 30 Sep   | [CSP I][]             | 6.3--6.5         |                                          |                       | [CSP II (YouTube)][]            | [CSP applet][]     | |
+|          |          |           [CSP II][]                          | 5.2--5.5         | [HW 4][] Games, due Mon 17 Oct            |                       | [Game Trees I (YouTube)][]      | [Note 3: Games][]  | [Note 3 (Fa '18)][]| 
 | **5**    | 7  Oct   | [Adversarial Search I][]       | 16.1--16.3       |                                          |                       | [Game Trees II (YouTube)][]     | [Note 4: Nondeterministic Search][] | |
 |          |          | [Adversarial Search II][]     | 17.1--17.3       | [HW 5][] MDP, due Mon 24 Oct             | [Project 1][] **due** | [MDP I (YouTube)][]             |                    | |
 | **6**    | 14 Oct   | [Markov Decision Processes I][] |                  |                                          |                       | [MDP II (YouTube)][]            |                    | |
