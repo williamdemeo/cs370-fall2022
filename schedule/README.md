@@ -165,9 +165,6 @@ The Berkeley course presented the material in different order than ours.
 
 <!-- LINKS TO LECTURE SLIDES -->
 [Intro to AI (UCB version)]: https://inst.eecs.berkeley.edu/~cs188/sp22/assets/slides/Lecture1.pptx
-[Agents and Environments]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec02-AgentsAndEnvironments.pptx
-[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec03-UninformedSearch.pptx
-[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Lec04-InformedSearch.pptx
 
 
 <!-- [A* Search and Heuristics]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Lec05-AstarSearchAndHeuristics.pptx -->
