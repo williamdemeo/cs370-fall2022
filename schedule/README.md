@@ -200,10 +200,10 @@ The Berkeley course presented the material in different order than ours.
 
 
 
-[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week02-UninformedSearch.pptx
-[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week03-InformedSearch.pptx
-[CSP I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week04-CSP-Part1.pptx
-[CSP II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/slides/CS370-Week04-CSP-Part2.pptx
+[Uninformed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Week02-UninformedSearch.pptx
+[Informed Search]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Week03-InformedSearch.pptx
+[CSP I]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Week04-CSP-Part1.pptx
+[CSP II]: https://github.com/williamdemeo/cs370-fall2022/raw/master/lecture/slides/CS370-Week04-CSP-Part2.pptx
 [Adversarial Search I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [Adversarial Search II]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
 [Markov Decision Processes I]: https://github.com/williamdemeo/cs370-fall2022/blob/master/lecture/dne.md
