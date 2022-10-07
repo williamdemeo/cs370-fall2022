@@ -31,11 +31,11 @@ Please keep in mind the information displayed in the following tables.  Use it t
 | **Files you'll edit** | **Description**                                    |
 |-----------------------|----------------------------------------------------|
 | `search.py`           | Where all of your search algorithms will reside.   |
-| `searchAgents.py`     | Where all of your search-based agents will reside. |
 
 
 | **Files you might look at** | **Description**                                            |
 |-------------------------------------|------------------------------------------------------------|
+| `searchAgents.py`     | Where all of your search-based agents will reside. |
 | `pacman.py`                         | Main file that runs Pacman games and describes Pacman GameState type used in this project. |
 | `game.py`                           | The logic behind how the Pacman world works. This file describes several supporting types like `AgentState`, `Agent`, `Direction`, and `Grid`. |
 | `util.py`                           | Useful data structures for implementing search algorithms. |
@@ -258,9 +258,9 @@ python autograder.py -q q4
 
 ## Submission
 
-In order to submit your project, run `python autograder.py` and, when you are satisfied with the results, submit the file `search.py`, and (if you modified them) the files `searchAgents.py` and `util.py`, to the `Project 1` assignment on Gradescope.
+In order to submit your project, run `python autograder.py` and, when you are satisfied with the results, submit the file `search.py` to the `Project 1` assignment on Gradescope.
 
-Please note: if you modified files other than these three, and if your solution depends on those modifications, then it is likely that your submission will not be accepted.  Please limit your code to the files `search.py`, `searchAgents.py`, and `util.py` (though it is possible to achieve a full score on this assignment by modifying only a subset of the three files mentioned).
+Please note: if you modified any other files, besides `search.py`, and if your solution depends on those modifications, then it is likely that your submission will not be accepted.  Please limit your code to the `search.py` file.
 
 -------------------------------------------
 
