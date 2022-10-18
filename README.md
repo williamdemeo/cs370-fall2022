@@ -54,9 +54,9 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 ## Who is the instructor?
 
 **Instructor**.  Dr. William DeMeo   
-**Email**. [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=CS370: (replace-this-text-with-informative-subject-description))    
+**Email**. [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=CS370: (replace-this-text-with-informative-subject-description))  
 **Office location**. [GITC][] 4201A  
-**Office hours**. Tuesdays 14:00--16:00
+**Office hours**. Wednesdays 14:00--16:00
 
 <!-- **Remarks about office hours**. -->
 <!-- The regularly scheduled office hours are subject to change. -->
