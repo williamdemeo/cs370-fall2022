@@ -10,6 +10,11 @@ This is the main web page for *Section 103* of the course *CS 370, Introduction 
 
 *This page will be updated throughout the semester. Students are expected to visit this page periodically.* 
 
+
+NEW SLACK INVITE: https://join.slack.com/t/cs370introaifall2022/shared_invite/zt-1isjvxowj-5wLPmO2NYrzO46_Yq71teQ
+
+(expires Nov 28 --- ask instructor for a new one after this date)
+
 ---
 
 **Contents**
