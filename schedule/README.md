@@ -35,20 +35,19 @@ The Berkeley course presented the material in different order than ours.
 | **9**    | 4 Nov    | [Probability][]                   | 13.1, 13.2       |                                          |  [Project 2][] **due** | [Probability (YouTube)][]       |                    | |
 |          |          | Review for exam                   | [Jordan 2.1][]  (optional reading) |                        |                       |                                 |                    | |
 | **10**   | 11 Nov   | EXAM (scope: 9 Sep--4 Nov)       |                  |                                          |                       |                                 |                    | |
-
-<!-- |          |          |                                   |                  |                                          |                       |   [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] | -->
-<!-- | **11**   | 18 Nov   | [Bayes Nets I][]                 | 13.3             | [HW 8][] Bayes Nets, due Mon 7 Nov       |                       | [BN: independence (YouTube)][]  |                    | | -->
-<!-- |          |          | [Bayes Nets II][]                | 13.4             |                                          |                       | [BN: inference (YouTube)][]     |                    | | -->
-<!-- |          |          | [Bayes Nets III][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov            |                       | [BN: sampling (YouTube)][]      |                    | | -->
-<!-- |          |          | -->
-<!-- | **12**   | 23 Nov   | [Decision Networks and VPI][]     | 16.5, 16.6       |                                          | [Project 3][] **due**    | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] | -->
-<!-- |          | (Wed)    | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] | -->
-<!-- | **13**   | 2 Dec    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec |                     | [Particle filters (YouTube)][]  |                    | | -->
-<!-- |          |          | [ML: Naïve Bayes][]               | 20.1, 20.2       |                                          |                       | [ML: Naive Bayes (YouTube)][]   |  [Note 9: ML][]    | | -->
-<!-- | **14**   | 9 Dec    | [ML: Perceptrons, Logit][]        | 19.6, 19.7       |                                          | [Project 4][] **due** | [ML: Perceptrons, Logit (YouTube)][] |               | | -->
-<!-- |          |          | [ML: Optimization][]              | 18.6.3, 18.8     |                                          |                       |                                 | [Note 10: Neural Nets][] | |  -->
-<!-- | **15**   | 16 Dec   | ([final exams][] begin)           |                  |                                          |                       |                                 |                    | | -->
-<!-- | **16**   | 24 Dec   | (final grades due)                |                  |                                          |                       |                                 |                    | | -->
+|          |          |                                   |                  |                                          |                       |   [Bayes Nets (YouTube)][]        | [Note 5: Bayes Nets][] | [Note 6 (Fa '18)][] |
+| **11**   | 18 Nov   | [Bayes Nets I][]                 | 13.3             | [HW 8][] Bayes Nets, due Mon 7 Nov       |                       | [BN: independence (YouTube)][]  |                    | |
+|          |          | [Bayes Nets II][]                | 13.4             |                                          |                       | [BN: inference (YouTube)][]     |                    | |
+|          |          | [Bayes Nets III][]                 | 13.5             | [HW 9][]. HMM; due Wed 23 Nov            |                       | [BN: sampling (YouTube)][]      |                    | |
+|          |          |
+| **12**   | 23 Nov   | [Decision Networks and VPI][]     | 16.5, 16.6       |                                          | [Project 3][] **due**    | [Decision Networks (YouTube)][] | [Note 7: Decision Networks][] |
+|          | (Wed)    | [Hidden Markov Models][]          | 14.2, 14,3       |                                          |                       | [HMM (YouTube)][]               | [Note 6: HMM][]    |  [Note 8 (Fa '18)][] |
+| **13**   | 2 Dec    | [Particle filters][]              | 14.4, 14.5       | [HW 10][]. Particle filters; due Fri 2 Dec |                     | [Particle filters (YouTube)][]  |                    | |
+|          |          | [ML: Naïve Bayes][]               | 20.1, 20.2       |                                          |                       | [ML: Naive Bayes (YouTube)][]   |  [Note 9: ML][]    | |
+| **14**   | 9 Dec    | [ML: Perceptrons, Logit][]        | 19.6, 19.7       |                                          | [Project 4][] **due** | [ML: Perceptrons, Logit (YouTube)][] |               | |
+|          |          | [ML: Optimization][]              | 18.6.3, 18.8     |                                          |                       |                                 | [Note 10: Neural Nets][] | |
+| **15**   | 16 Dec   | ([final exams][] begin)           |                  |                                          |                       |                                 |                    | |
+| **16**   | 24 Dec   | (final grades due)                |                  |                                          |                       |                                 |                    | |
 
 
 
